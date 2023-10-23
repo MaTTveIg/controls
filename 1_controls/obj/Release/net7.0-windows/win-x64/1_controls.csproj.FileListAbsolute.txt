@@ -1,0 +1,34 @@
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.exe
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.deps.json
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.runtimeconfig.json
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\_1_controls.Form1.resources
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\_1_controls.Properties.Resources.resources
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.csproj.GenerateResource.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\refint\1_controls.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\obj\Release\net7.0-windows\win-x64\ref\1_controls.dll
+D:\code\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.exe
+D:\code\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.deps.json
+D:\code\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.runtimeconfig.json
+D:\code\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.dll
+D:\code\project\1_controls\bin\Release\net7.0-windows\win-x64\1_controls.pdb
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\_1_controls.Form1.resources
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\_1_controls.Properties.Resources.resources
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.csproj.GenerateResource.cache
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.AssemblyInfoInputs.cache
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.AssemblyInfo.cs
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.csproj.CoreCompileInputs.cache
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.dll
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\refint\1_controls.dll
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.pdb
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\1_controls.genruntimeconfig.cache
+D:\code\project\1_controls\obj\Release\net7.0-windows\win-x64\ref\1_controls.dll

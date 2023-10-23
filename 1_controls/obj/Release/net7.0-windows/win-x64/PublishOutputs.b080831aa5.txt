@@ -1,0 +1,2 @@
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\publish\win-x64\1_controls.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\1_controls\bin\Release\net7.0-windows\publish\win-x64\1_controls.exe
